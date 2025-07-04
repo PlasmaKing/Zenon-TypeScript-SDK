@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "exports": "./mod.ts",
   "tasks": {
+    "test": "deno test --coverage=./coverage/"
   },
   "license": "MIT",
   "imports": {
-    "@std/assert": "jsr:@std/assert@1"
+    "@std/assert": "jsr:@std/assert@1",
+    "@std/crypto": "jsr:@std/crypto@^1.0.5",
+    "@std/encoding": "jsr:@std/encoding@^1.0.10"
   }
 }

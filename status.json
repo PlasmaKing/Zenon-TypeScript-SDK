@@ -1,0 +1,29 @@
+{
+  "name": "Zenon TypeScript SDK",
+  "repository_url": "https://github.com/plasmaking/Zenon-TypeScript-SDK",
+  "maintainers": ["PlasmaKing"],
+  "functionalities": [
+    { "name": "ABI Encoding", "status": 0, "notes": "Not started" },
+    { "name": "ABI Decoding", "status": 0, "notes": "Not started" },
+    { "name": "Argon2", "status": 0, "notes": "Not started" },
+    { "name": "Ed25519", "status": 0, "notes": "Not started" },
+    { "name": "Bip32", "status": 0, "notes": "Not started" },
+    { "name": "Wallet", "status": 0, "notes": "Not started" },
+    { "name": "PoW", "status": 0, "notes": "Not started" },
+    { "name": "Ledger API", "status": 0, "notes": "Not started" },
+    { "name": "Stats API", "status": 0, "notes": "Not started" },
+    { "name": "Accelerator API", "status": 0, "notes": "Not started" },
+    { "name": "Bridge API", "status": 0, "notes": "Not started" },
+    { "name": "Htlc API", "status": 0, "notes": "Not started" },
+    { "name": "Liquidity API", "status": 0, "notes": "Not started" },
+    { "name": "Pillar API", "status": 0, "notes": "Not started" },
+    { "name": "Plasma API", "status": 0, "notes": "Not started" },
+    { "name": "Sentinel API", "status": 0, "notes": "Not started" },
+    { "name": "Spork API", "status": 0, "notes": "Not started" },
+    { "name": "Stake API", "status": 0, "notes": "Not started" },
+    { "name": "Swap API", "status": 0, "notes": "Not started" },
+    { "name": "Token API", "status": 0, "notes": "Not started" },
+    { "name": "Unit tests", "status": 0, "notes": "Not started" },
+    { "name": "Documentation", "status": 0, "notes": "Not started" }
+  ]
+}
